@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Handlee);
+@import url(http://fonts.googleapis.com/css?family=Autour+One);
+
+html { 
+    background: url(../imgs/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+  padding-top: 5%;
+}
+
+div#page-container {
+  width: 80%;
+  background-color: white;
+
+  margin-left: auto; 
+  margin-right: auto;
+  padding-top: 20px;
+
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+}
+
+div#header {
+  padding: 0px;
+}
+
+div#menu {
+  font-family: 'Handlee', cursive;
+  color: white;
+}
+
+div#content {
+  font-family: 'Autour One', cursive;
+  min-height: 50%;
+}
+
+p.header {
+  text-align: center;
+  margin-left: auto; 
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 5em;
+  padding-top: 3px;
+}
+
+p.title {
+  font-size: 2em;
+}
+
+p.menu {
+  height: 3em;
+  display: table-cell;
+  vertical-align: middle
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+img.social {
+  width: 50px;
+  height: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
