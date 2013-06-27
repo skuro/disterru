@@ -41,5 +41,5 @@
 
     };
 
-    changeImg(document.getElementById("logo"), "imgs/moru-oghitu.png");
+    changeImg(document.getElementById("logo"), "/imgs/moru-oghitu.png");
 })()
