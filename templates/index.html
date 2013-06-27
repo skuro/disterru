@@ -1,6 +1,10 @@
 ; @layout default
 ; @title  Disterru
 
-{{#posts}}
-<h2><a href="{{url}}">{{&title}}</h2>
-{{/posts}}
+<br />
+
+<span class="articulos">
+  {{#posts}}
+  <span class="articulo grid-30">{{&pubblicau}}</span><a href="{{url}}" class="grid-70">{{&title}}</a>
+  {{/posts}}
+</span>
