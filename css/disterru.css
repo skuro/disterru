@@ -13,6 +13,14 @@ body {
   padding-top: 5%;
 }
 
+a {
+  color: red;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
 div#page-container {
   width: 80%;
   background-color: white;
@@ -40,7 +48,11 @@ div#content {
 }
 
 div#content p {
-  font-size: 0.8em;
+  font-size: 1em;
+}
+
+div#content img {
+  margin: 20px;
 }
 
 p.header, a.header {
@@ -95,4 +107,25 @@ img.social {
   height: 50px;
   margin-top: auto;
   margin-bottom: auto;
+}
+
+span.articulos {
+  padding-top: 10px;
+}
+
+span.articulos a {
+  padding-left: 20px;
+  line-height: 20px;
+}
+
+span.articulos a:hover{
+  background: url(/imgs/favicon.ico) left center no-repeat;
+}
+
+h2.titulu {
+  margin-bottom: 0px;
+}
+
+span.pubblicau {
+ font-size: 0.8em; 
 }
