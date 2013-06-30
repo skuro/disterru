@@ -9,6 +9,8 @@
 
  ; use clostache
  :compiler "clostache"
+ :post-sort-type :date
 
+ :site {:site-title "Disterru -- Novas dae is attrus mundus, in Sardu"}
 
 }

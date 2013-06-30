@@ -1,3 +1,6 @@
+/*
+Funtzioni pro a ddu fai fai s'oghitu a su moru'
+*/
 (function blink(){
     var changeImg = function (elem, replacement) {
 
@@ -42,4 +45,34 @@
     };
 
     changeImg(document.getElementById("logo"), "/imgs/moru-oghitu.png");
-})()
+})();
+
+/*
+  funtzioni pro a carregai s'informatzioni de s'autori'
+*/
+(function loadAuthor() {
+    var loadAuthorDescription = function(name) {
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/autori-" + name + ".html", false);
+        xhr.send();
+        var spanAuthor = document.getElementById("autori");
+        spanAuthor.innerHTML = xhr.responseText
+
+        var autoriName = document.getElementById("titulu-autori");
+        if (autoriName) {
+            autoriName.addEventListener("mouseover", function() {
+                spanAuthor.className += " grigiu";
+            }, false);
+
+            autoriName.addEventListener("mouseout", function() {
+                var orig = spanAuthor.className;
+                spanAuthor.className = orig.replace("grigiu", "").trim();
+            }, false)
+        }
+    };
+
+    var authorName = window.authorName;
+    if (authorName) {
+        loadAuthorDescription(authorName);
+    }
+})();

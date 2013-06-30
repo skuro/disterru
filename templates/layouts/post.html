@@ -1,6 +1,10 @@
 ; @layout default
 
 <h2 class="titulu">{{&title}}</h2>
-<span class="pubblicau">{{&pubblicau}}</span>
+<span class="pubblicau">{{&pubblicau}} -- articulu iscrittu de <span id="titulu-autori" class="evidentzia nota">{{autori}}</span></span>
 
 {{&content}}
+
+<script type="text/javascript">
+  authorName = "{{autori}}";
+</script>

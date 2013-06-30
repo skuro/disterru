@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Disterru</title>
+  <link href="http://disterru.skuro.tk/"/>
+  <link type="application/atom+xml" rel="self" href="http://disterru.skuro.tk/atom.xml"/>
+  <updated>{{site-title}}</updated>
+  <id>Disterru</id>
+  <author>
+    <name>Progettu Disterru</name>
+    <email>disterru@skuro.tk</email>
+  </author>
+
+  {{#posts}}
+  <entry>
+    <id>{{url}}</id>
+    <link type="text/html" rel="alternate" href="{{url}}"/>
+    <title>{{&title}}</title>
+    <updated>{{date}}</updated>
+    <author>
+      <name>{{autori}}</name>
+      <uri>http://disterru.skuro.tk/</uri>
+    </author>
+    <content type="html">{{content}}</content>
+  </entry>
+  {{/posts}}
+
+</feed>

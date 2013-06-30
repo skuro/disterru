@@ -10,11 +10,33 @@ html {
 }
 
 body {
+  font-family: 'Antic Slab', cursive;
   padding-top: 5%;
+}
+
+pre {
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.evidentzia {
+  font-style: italic;
+  border-bottom: 1px dashed;
+}
+
+.nota {
+  cursor: hand;
 }
 
 a {
   color: red;
+}
+
+.grigiu {
+  background-color: #eee;
 }
 
 a:hover {
@@ -42,8 +64,11 @@ div#menu {
   color: white;
 }
 
+a.licenza {
+  display: block;
+}
+
 div#content {
-  font-family: 'Antic Slab', cursive;
   min-height: 50%;
 }
 
@@ -128,4 +153,20 @@ h2.titulu {
 
 span.pubblicau {
  font-size: 0.8em; 
+}
+
+span#autori {
+  display: block;
+  clear: both;
+  padding: 5px;
+  margin: 5px;
+  font-size: 0.8em;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+span#autori img {
+  float: left;
+  padding: 5px;
 }
