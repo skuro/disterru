@@ -173,3 +173,14 @@ span#autori img {
   -moz-border-radius: 80px;
   border-radius: 80px;
 }
+
+blockquote {
+  font-size: 14px/22px;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
