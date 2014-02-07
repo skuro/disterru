@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Disterru</title>
+  <link href="http://disterru.skuro.tk/"/>
+  <link type="application/atom+xml" rel="self" href="http://disterru.skuro.tk/atom.xml"/>
+  <updated>Disterru -- Novas dae is attrus mundus, in Sardu</updated>
+  <id>Disterru</id>
+  <author>
+    <name>Progettu Disterru</name>
+    <email>disterru@skuro.tk</email>
+  </author>
+
+  <entry>
+    <id>/2013/06/calendariu-de-is-festas-sardas.html</id>
+    <link type="text/html" rel="alternate" href="/2013/06/calendariu-de-is-festas-sardas.html"/>
+    <title>Calendariu online de is festas Sardas</title>
+    <updated>20 Jun 2013</updated>
+    <author>
+      <name>skuro</name>
+      <uri>http://disterru.skuro.tk/</uri>
+    </author>
+    <content type="html">
+&lt;p&gt;Una cosa chi m'hat incuriosau fiat sa lista de sa festas tipicas in totu e sa Sardigna. Hapu circau unu pagu in Iternet pro ad agatai puru is festas chi non hia connotu, e calincuna d'hapu agatada. Pro esempio, oi est sa die de &lt;a href=&quot;http://www.flickr.com/photos/giovanni67/sets/72157600601458701/&quot;&gt;sa Batalla de Seddori&lt;/a&gt;, e s'attra xida a Sabudu hat a incumentzai &lt;a href=&quot;http://sc.wikipedia.org/wiki/Ardia&quot;&gt;s'Ardia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pro ti aggiudai a arregurdai candu c'est una festa de calincuna parti de sa Sardigna, hapu postu a paris in unu calendariu chi hapu condivisu po ddu fai impreai a chinisisiat. Pro a ddu impreai a custu calendariu, podis fai a custa manera: sighi &lt;a href=&quot;https://www.google.com/calendar/ical/a02rrdeiaops4cdah21fklngbg%40group.calendar.google.com/public/basic.ics&quot;&gt;innoi&lt;/a&gt; e scarriga s'archiviu chi podis importai in dogna logu (Outlook, Google Calentar, ecc.). Si ddu bolis a poni in unu giassu internet, ponis custu codici in is paginas tuas e ddu has a biri comenti innoi a sutta:
+
+&lt;pre&gt;
+&amp;lt;iframe src=&quot;https://www.google.com/calendar/embed?src=a02rrdeiaops4cdah21fklngbg%40group.calendar.google.com&amp;amp;ctz=Europe/Amsterdam&quot; style=&quot;border: 0&quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Si bolis a aggiungi calincuna festa a su calendariu, &lt;a href=&quot;mailto:skuro@skuro.tk&quot;&gt;bastat&lt;/a&gt; a mi ddu narai!&lt;/p&gt;
+
+&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/calendar/embed?src=a02rrdeiaops4cdah21fklngbg%40group.calendar.google.com&amp;ctz=Europe/Amsterdam&quot; style=&quot;border: 0&quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</content>
+  </entry>
+  <entry>
+    <id>/2013/06/disqus-in-limba-sarda.html</id>
+    <link type="text/html" rel="alternate" href="/2013/06/disqus-in-limba-sarda.html"/>
+    <title>Aggiuda a bortai Disqus in Sardu</title>
+    <updated>28 Jun 2013</updated>
+    <author>
+      <name>disterru</name>
+      <uri>http://disterru.skuro.tk/</uri>
+    </author>
+    <content type="html">
+&lt;p&gt;Pro cummentzai is attividadis de custu blog, c'est unu progetu chi apu creau ultimamenti chi abbisongiat de genti chi bollit a agattai sa possibilitadi de scioberai su Sardu cumenti e sa limba sua in Internet. Su servitziu chi agattas innoi a basciu, aundi tui podis ponni comentus a is articulos in custu blog, &lt;a href=&quot;http://disqus.com&quot;&gt;Disqus&lt;/a&gt; si narat, hat accettau a du bortai in Sardu aici e totu. Immoi no est ancora possibili a ddu imperai, chi sa tradutzioni depit essi ancora aprovada.&lt;/p&gt;
+
+&lt;p&gt;Disqus est unu servitziu usau mera mera in Internet, e mancai no est Google o Facebook, est importanti de cummentzai ad hai giassus e servitzios in sardu, immoi chi pruschetotu sa genti imperant sa rete po chistionai, arrexionai e a si sciallai. Duncas, si tui pensas cumenti a mimi chi est cosa bella e divertenti, o mancai ses sceti curiosu de biri cumenti est a de tradusiri unu situ mannu, t'imbidu a ti &lt;a href=&quot;https://www.transifex.com/projects/p/disqus/language/sc/&quot;&gt;registrai&lt;/a&gt; e a cummentzai a bortai calincuna frasia in sardu!
+
+&lt;img alt=&quot;Disqus in Sardu&quot; src=&quot;/imgs/disqus.png&quot; /&gt;
+
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>/2014/01/wikipedia-in-sardu-bolit-accontzada.html</id>
+    <link type="text/html" rel="alternate" href="/2014/01/wikipedia-in-sardu-bolit-accontzada.html"/>
+    <title>Wikipedia in Sardu bolit aggiurada</title>
+    <updated>20 Jan 2014</updated>
+    <author>
+      <name>skuro</name>
+      <uri>http://disterru.skuro.tk/</uri>
+    </author>
+    <content type="html">
+&lt;blockquote&gt;verba volant, scripta manent&lt;/blockquote&gt;
+
+&lt;p&gt;Est prus de dexi annus chi &lt;a href=&quot;https://sc.wikipedia.org&quot;&gt;Wikipedia&lt;/a&gt; est su primu de is m&amp;eacute;dius chi ist&amp;eacute;rrint informatzioni asuba de donnia sci&amp;egrave;nzia, dae sa literadura a sa matem&amp;agrave;tica, dae sa storia a sa geografia. Mancai donniunu podit accontzai o agi&amp;uacute;ngiri totu is paginas, gratzias a totus is voluntarius chi traballant pro a dda pompiai, sa calidadi bona mera de is articulos fait de Wikipedia unu de is canalis de importu prus mannu pro a istesiai connosc&amp;eacute;nzia.&lt;/p&gt;
+
+&lt;p&gt;Per&amp;ograve;, mancai custu est beru pro meras linguas in ue agattat articulos de Wikipedia, si andas a ti castiai is p&amp;agrave;ginas iscrittas in sardu, sa cosa non parrit pr&amp;ograve;priu de aicci. Meras art&amp;igrave;culos funti sceti una o duas fr&amp;agrave;sias, chi parint postas a paris sceti pro a nai chi unu art&amp;igrave;culo pro cussu argomentu ddu tenneus in sardu puru: castiai&amp;middot;si sa calidadi de s'articulo asuba de &lt;a href=&quot;http://sc.wikipedia.org/wiki/Giovanni_Lilliu&quot;&gt;Giovanni Lilliu&lt;/a&gt; pro a cumprendi cantu podeus essi mali pigaus, fintza pro argumentus de importu mannu mera pro is sardus e sa sardigna etotu chi su prus mannu de is archeologos sardos.&lt;/p&gt;
+
+&lt;p&gt;Podi essi chi is &quot;wikipedianus&quot; sardus informatzionis de calidadi non funti bonus a ddas accontzai a pari, si ddas depint iscriri in sardu? &lt;b&gt;No&lt;/b&gt;, poitta giai ddus agattas articulos scittus beni meda, mancai pro argomentus calincuna borta chi ti lassant spantau che su de su &lt;a href=&quot;https://sc.wikipedia.org/wiki/Rugby&quot;&gt;Rugby&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Castiendi a &lt;a href=&quot;https://sc.wikipedia.org/w/index.php?title=Ispetziale:RecentChanges&amp;days=30&amp;from=&amp;limit=500&quot;&gt;s'attividadi&lt;/a&gt; in totu is paginas in sardu in Wikipedia, agattas chi c'esti mancai donnia disi calincunu chi accontzat o agiungit paginas, ma non funti meras e is prus bortas provant sceti a incumentzai unu articulu, ponendi a pari una o duas frasias. Su resurtau esti su chi apu nau in pitzu, chi sa sezioni sarda de Wikipedia esti &quot;a frenu tirau&quot; si dda accarat a sas in Ingresu e Italianu.&lt;/p&gt;
+
+&lt;p&gt;Meras sardus ant pigau a fueddai e arrexonai de sa limba. Si dda bois aggiudai diaderus, ponni&amp;middot;ti a scriri!&lt;/p&gt;</content>
+  </entry>
+
+</feed>
