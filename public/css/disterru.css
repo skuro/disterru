@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Handlee);
 @import url(http://fonts.googleapis.com/css?family=Antic+Slab);
 
-html { 
-    background: url(../imgs/background2.jpg) no-repeat center center fixed; 
+html {
+    background: url(../imgs/background2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -47,7 +47,7 @@ div#page-container {
   width: 80%;
   background-color: white;
 
-  margin-left: auto; 
+  margin-left: auto;
   margin-right: auto;
   padding-top: 20px;
 
@@ -82,7 +82,7 @@ div#content img {
 
 p.header, a.header {
   text-align: center;
-  margin-left: auto; 
+  margin-left: auto;
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
@@ -127,6 +127,12 @@ p.menu, a.menu {
   background-color: black;
 }
 
+img.center {
+  margin-left: auto ! important;
+  margin-right: auto ! important;
+  display: block;
+}
+
 img.social {
   width: 50px;
   height: 50px;
@@ -152,7 +158,7 @@ h2.titulu {
 }
 
 span.pubblicau {
- font-size: 0.8em; 
+ font-size: 0.8em;
 }
 
 span#autori {
@@ -183,4 +189,4 @@ blockquote {
   margin-left: 50px;
   padding-left: 15px;
   border-left: 3px solid #ccc;
-} 
+}
