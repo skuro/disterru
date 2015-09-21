@@ -1,0 +1,198 @@
+@import url(http://fonts.googleapis.com/css?family=Handlee);
+@import url(http://fonts.googleapis.com/css?family=Antic+Slab);
+
+html {
+    background: url(../imgs/background2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+  font-family: 'Antic Slab', cursive;
+  padding-top: 5%;
+}
+
+pre {
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.evidentzia {
+  font-style: italic;
+  border-bottom: 1px dashed;
+}
+
+.nota {
+  cursor: hand;
+}
+
+a {
+  color: red;
+}
+
+.grigiu {
+  background-color: #eee;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+div#page-container {
+  width: 80%;
+  background-color: white;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+}
+
+div#header {
+  padding: 0px;
+}
+
+div#menu {
+  font-family: 'Handlee', cursive;
+  color: white;
+}
+
+a.licenza {
+  display: block;
+}
+
+div#content {
+  min-height: 50%;
+}
+
+div#content p {
+  font-size: 1em;
+}
+
+div#content img {
+  margin: 20px;
+}
+
+p.header, a.header {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 5em;
+  padding-top: 3px;
+}
+
+p#citazioni {
+  font-family: 'Antic Slab', cursive;
+  text-align: right;
+  font-size: 1.8em;
+}
+
+div#citazioni-serrau {
+  font-size: 7em;
+}
+
+a.header:hover {
+  color: black;
+  background-repeat: no-repeat;
+  background-image: url("../imgs/flag-icon.png");
+  background-position: left 80px bottom 20px;
+}
+
+p.title {
+  font-size: 2em;
+}
+
+p.menu, a.menu {
+  height: 3em;
+  display: table-cell;
+  vertical-align: middle;
+  text-decoration: none;
+  color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+img.center {
+  margin-left: auto ! important;
+  margin-right: auto ! important;
+  display: block;
+}
+
+img.social {
+  width: 50px;
+  height: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+span.articulos {
+  padding-top: 10px;
+}
+
+span.articulos a {
+  padding-left: 20px;
+  line-height: 20px;
+}
+
+span.articulos a:hover{
+  background: url(/imgs/favicon.ico) left center no-repeat;
+}
+
+h2.titulu {
+  margin-bottom: 0px;
+}
+
+span.pubblicau {
+ font-size: 0.8em;
+}
+
+span#autori {
+  display: block;
+  clear: both;
+  padding: 5px;
+  margin: 5px;
+  font-size: 0.8em;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+span#autori img {
+  float: left;
+  padding: 5px;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  border-radius: 80px;
+}
+
+blockquote {
+  font-size: 14px/22px;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
+div#disqus_ad {
+  margin: 15px;
+  padding: 10px;
+  background-color: lightgrey;
+}
